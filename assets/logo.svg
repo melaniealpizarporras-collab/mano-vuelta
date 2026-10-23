@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 170">
+<rect width="500" height="170" rx="26" fill="#FBF8F1"/>
+<circle cx="86" cy="85" r="58" fill="#0F5132"/>
+<path d="M52 98c14-23 34-40 60-52 10-5 17 9 8 14L89 81c-4 3-1 8 3 6l37-14c11-4 16 12 6 17L99 105c-4 2-2 7 3 6l31-6c11-2 13 13 3 17l-40 10c-22 6-42 0-57-15z" fill="#F7F1E7"/>
+<path d="M120 64c-13 20-32 37-57 49-10 5-17-9-8-14l30-20c4-3 1-8-3-6L47 86c-11 4-16-12-6-17l34-14c4-2 2-7-3-6l-28 5c-11 2-13-13-3-17l36-9c22-6 42 0 57 15z" fill="#D86F45"/>
+<text x="165" y="78" font-family="Arial" font-size="43" font-weight="800" fill="#123F2C">MANO</text>
+<text x="165" y="120" font-family="Arial" font-size="43" font-weight="800" fill="#D86F45">VUELTA</text>
+<text x="167" y="147" font-family="Arial" font-size="15" fill="#476055">Talento que se demuestra haciendo</text>
+</svg>
