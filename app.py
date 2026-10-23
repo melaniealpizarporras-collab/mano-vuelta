@@ -48,7 +48,7 @@ def challenges():
     return pd.DataFrame(BASE_CHALLENGES+st.session_state.new_challenges)
 
 with st.sidebar:
-    st.image(str(BASE/"assets"/"logo.svg"),width=220)
+    st.image(str(BASE/"assets"/"logo.png"),width=220)
     st.caption("Piloto territorial · Costa Rica")
     page=st.radio("",["🏠 Inicio","🧩 Mural de Retos","👥 Mi Cuadrilla","🪪 Mi Mano","🤝 Banco de Horas","🎓 Formación","🗺️ Mapa","📊 Impacto","🏢 Empresas","🧭 Coordinación"])
     st.divider(); st.markdown("**Sofía Ramírez**"); st.caption("Joven · Pérez Zeledón")
